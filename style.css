@@ -371,7 +371,7 @@ button{
 .dog-image {
     height: 80vh;
     width: 50vw;
-    background-size: cover;
+    background-size: contain;
 }
 #dog-button{
     height: 3vh;
